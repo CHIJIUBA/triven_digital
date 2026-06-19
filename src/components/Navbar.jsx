@@ -3,21 +3,21 @@ import { useUI } from '../UIContext.jsx'
 
 const NAV_LINKS = [
   { href: '#home-section', label: 'Home' },
-  {
-    label: 'Dropdown',
-    children: [
-      { href: '#testimonials-section', label: 'Testimonials' },
-      {
-        label: 'Menu Two',
-        children: [
-          { href: '#', label: 'Sub Menu One' },
-          { href: '#', label: 'Sub Menu Two' },
-          { href: '#', label: 'Sub Menu Three' },
-        ],
-      },
-      { href: '#', label: 'Menu Three' },
-    ],
-  },
+//   {
+//     label: 'Dropdown',
+//     children: [
+//       { href: '#testimonials-section', label: 'Testimonials' },
+//       {
+//         label: 'Menu Two',
+//         children: [
+//           { href: '#', label: 'Sub Menu One' },
+//           { href: '#', label: 'Sub Menu Two' },
+//           { href: '#', label: 'Sub Menu Three' },
+//         ],
+//       },
+//       { href: '#', label: 'Menu Three' },
+//     ],
+//   },
   { href: '#features-section', label: 'Features' },
   { href: '#pricing-section', label: 'Pricing' },
   { href: '#about-section', label: 'About' },
