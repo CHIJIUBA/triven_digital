@@ -4,7 +4,7 @@ export default function Hero() {
       <div className="container">
         <div className="row align-items-center">
           <div className="col-12">
-            <div className="dots"></div>
+            {/* <div className="dots"></div> */}
             <div className="row align-items-center">
               <div className="col-lg-7 ms-auto order-lg-2" data-aos="fade-right" data-aos-delay="400">
                 <img
@@ -15,19 +15,17 @@ export default function Hero() {
               </div>
               <div className="col-lg-5">
                 <h1 className="heading" data-aos="fade-up" data-aos-delay="0">
-                  Promote Your Products by Colorlib
+                  Thrive with Triven Digital
                 </h1>
                 <div className="excerpt" data-aos="fade-up" data-aos-delay="100">
                   <p>
-                    Another cool free html css template by{' '}
-                    <a href="#" target="_blank" rel="noreferrer" className="highlight">Colorlib</a>{' '}
-                    Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                    there live the blind texts. Separated they live in Bookmarksgrove right at the coast
+                  At Triven Digital, we help businesses turn visibility into growth. Whether you're launching a new product or expanding your reach, 
+				  our digital marketing solutions from strategic campaigns and social media to content creation and online advertising help your brand stand out and drive real results.
+                  Grow your brand. Reach more customers. Achieve measurable success with Triven Digital.
                   </p>
                 </div>
                 <p data-aos="fade-up" data-aos-delay="200">
-                  <a href="#features-section" className="btn btn-primary smoothscroll">See Features</a>
-                  <a href="#pricing-section" className="btn btn-outline-primary smoothscroll">Pricing</a>
+                  <a href="#features-section" className="btn btn-primary smoothscroll">See Services</a>
                 </p>
               </div>
             </div>
